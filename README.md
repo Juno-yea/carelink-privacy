@@ -1,8 +1,8 @@
 # 함께지음 개인정보처리방침
 
-[함께지음](https://github.com/Juno-yea/CareLink) 앱의 개인정보처리방침을 게시하는 저장소입니다.
+[함께지음](https://github.com/Mirang-93/CareLink) 앱의 개인정보처리방침을 게시하는 저장소입니다.
 
-게시 주소: https://juno-yea.github.io/hamkkejieum-privacy/
+게시 주소: https://mirang-93.github.io/hamkkejieum-privacy/
 
 ## 고칠 때
 
